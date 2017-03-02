@@ -1,2 +1,2 @@
 # GeorgeK95.github.io
-HTML &amp; CSS exercise
+Very basic blog using html & css.
