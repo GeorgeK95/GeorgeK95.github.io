@@ -1,4 +1,4 @@
-TIMEOUT = 4_000;
+TIMEOUT = 4000;
 
 window.addEventListener("load", function () {
     setTimeout(onReadMoreButtonClicked, TIMEOUT);
