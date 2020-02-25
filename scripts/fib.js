@@ -5,7 +5,6 @@ window.addEventListener("load", function () {
 });
 
 function onReadMoreButtonClicked() {
-    // window.location = "https://my.fibank.bg/redirect";
-    window.location = "MyFibank://";
+    window.location = "https://my.fibank.bg/redirect";
     // document.getElementById('btnReadMoreId').click()
 }
